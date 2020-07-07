@@ -1,4 +1,4 @@
-#aws-cdk-playground
+# aws-cdk-playground
 
 https://cdkworkshop.com/
 
